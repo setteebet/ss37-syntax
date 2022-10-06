@@ -1,0 +1,18 @@
+{
+  "name": "ss37-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "เว็บsom777จ่ายจริงไหม✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"เว็บsom777จ่ายจริงไหม",
+"แทงหวยหุ้นออนไลน์",
+"lottovip official",
+"เว็บหวยออนไลน์ที่มาแรงที่สุดในตอนนี้",
+"หวยราคาดี"
+],
+  "repository": "https://github.com/setteebet/ss37-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
